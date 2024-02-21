@@ -6,4 +6,4 @@ services:
   ports:
   - port: 3000
     httpSupport: true
-  buildFromGit: https://github.com/vankovap/zerops-nodejs-helloworld@main
+  buildFromGit: https://github.com/zeropsio/recipe-nodejs-hello-world@main
