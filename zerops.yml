@@ -14,3 +14,6 @@ zerops:
     run:
       # A command that should start your service.
       start: npm start
+      ports:
+        - port: 3000
+          httpSupport: true
